@@ -14,6 +14,8 @@ class TestServer(unittest.TestCase):
     pass
   def test_divide(self):
     pass
+  def test_client(self):
+    pass
 # Executing the tests in the above test case class
 if __name__ == "__main__":
   unittest.main()
